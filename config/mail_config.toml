@@ -1,0 +1,11 @@
+[IMAP]
+server = "w01f4472.kasserver.com"
+port = 993
+username = "m0766604"
+password = "Anatol19991!!6644"
+
+[SMTP]
+server = "w01f4472.kasserver.com"
+port = 465
+sender_mail = "support@karreralexander.at"
+password = "Anatol19991!!6644"
